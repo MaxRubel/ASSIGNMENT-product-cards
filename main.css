@@ -1,0 +1,26 @@
+.container{display:flex; padding: 5; margin: 5px;}
+
+.card{margin: 20px ; padding: 5px; border: 1px dashed black;}
+
+.card-title{border: 1px dashed lightblue; text-align: center; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+
+.card-textB{font-weight: bold;}
+
+.card-text1{text-align: justify; }
+
+.card-img-top{ float: center;
+  width:  auto;
+  height: 300px;
+  object-fit:contain; }
+
+  .available{ 
+  margin-top: 20px;
+  color: yellow;
+  background-color: gray;
+  text-align: center;
+}
+
+p { margin:0;
+  padding:0;}
+
+f{font-size: small; font-style: italic;}
